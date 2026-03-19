@@ -1,0 +1,49 @@
+╔══════════════════════════════════════════════════════╗
+║              RESEARCH BRIEF                         ║
+╚══════════════════════════════════════════════════════╝
+
+PAPER METADATA
+──────────────
+Title  : The Road Less Traveled
+Author : M. Scott Peck
+
+RESEARCH ANALYSIS  (score: 7/10)
+─────────────────
+Problem Statement:
+  N/A
+
+Methodology:
+  N/A
+
+Key Findings:
+
+
+Conclusion:
+  N/A
+
+EXECUTIVE SUMMARY  (score: 7/10)
+─────────────────
+{}
+
+CITATIONS & REFERENCES  (score: 7/10)
+──────────────────────
+
+
+
+KEY INSIGHTS  (score: 7/10)
+────────────
+Practical Takeaways:
+
+
+Field Implications:
+  N/A
+
+Potential Applications:
+
+
+Limitations:
+  N/A
+
+══════════════════════════════════════════════════════
+QUALITY SCORES: {'analysis': 7, 'summary': 7, 'citations': 7, 'insights': 7}
+══════════════════════════════════════════════════════
